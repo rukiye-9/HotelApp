@@ -1,21 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/MzqKzUsXwrt1AVUYbKLh3cdcs4nkWiFojoe44hOuIo7WnWwSWudxf4EHG6OIHFJpoFHL81PQnJciKwtGwmkKA==",
+  "dgSpecHash": "YrXncKfT0sIGHKQlLhNM5DLf2FY7RELOwGntVQ61pusg8Vvup1h94oqjiZOyHzfd592kP/HcUaE/7Pcf2bZfDw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\RukiyeBAŞBOĞA\\source\\repos\\HotelApp\\HotelApp.Web\\HotelApp.Web.csproj",
+  "projectFilePath": "C:\\Users\\sefab\\Desktop\\HotelApp\\HotelApp.Web\\HotelApp.Web.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "NU1803",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://api.nuget.org/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
-    },
-    {
-      "code": "NU1803",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nexus.bulut.ai/repository/bit-nuget-group/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
-    }
-  ]
+  "logs": []
 }

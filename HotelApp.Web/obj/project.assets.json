@@ -8,19 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\RukiyeBAŞBOĞA\\.nuget\\packages\\": {}
+    "C:\\Users\\sefab\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RukiyeBAŞBOĞA\\source\\repos\\HotelApp\\HotelApp.Web\\HotelApp.Web.csproj",
+      "projectUniqueName": "C:\\Users\\sefab\\Desktop\\HotelApp\\HotelApp.Web\\HotelApp.Web.csproj",
       "projectName": "HotelApp.Web",
-      "projectPath": "C:\\Users\\RukiyeBAŞBOĞA\\source\\repos\\HotelApp\\HotelApp.Web\\HotelApp.Web.csproj",
-      "packagesPath": "C:\\Users\\RukiyeBAŞBOĞA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RukiyeBAŞBOĞA\\source\\repos\\HotelApp\\HotelApp.Web\\obj\\",
+      "projectPath": "C:\\Users\\sefab\\Desktop\\HotelApp\\HotelApp.Web\\HotelApp.Web.csproj",
+      "packagesPath": "C:\\Users\\sefab\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sefab\\Desktop\\HotelApp\\HotelApp.Web\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\RukiyeBAŞBOĞA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\sefab\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,8 +33,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://api.nuget.org/v3/index.json": {},
-        "http://nexus.bulut.ai/repository/bit-nuget-group/index.json": {}
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
@@ -65,22 +70,8 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1803",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://api.nuget.org/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
-    },
-    {
-      "code": "NU1803",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nexus.bulut.ai/repository/bit-nuget-group/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
-    }
-  ]
+  }
 }

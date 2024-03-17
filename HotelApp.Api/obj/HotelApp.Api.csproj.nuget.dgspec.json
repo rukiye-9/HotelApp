@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\RukiyeBAŞBOĞA\\source\\repos\\HotelApp\\HotelApp.Api\\HotelApp.Api.csproj": {}
+    "C:\\Users\\sefab\\Desktop\\HotelApp\\HotelApp.Api\\HotelApp.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\RukiyeBAŞBOĞA\\source\\repos\\HotelApp\\HotelApp.Api\\HotelApp.Api.csproj": {
+    "C:\\Users\\sefab\\Desktop\\HotelApp\\HotelApp.Api\\HotelApp.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\RukiyeBAŞBOĞA\\source\\repos\\HotelApp\\HotelApp.Api\\HotelApp.Api.csproj",
+        "projectUniqueName": "C:\\Users\\sefab\\Desktop\\HotelApp\\HotelApp.Api\\HotelApp.Api.csproj",
         "projectName": "HotelApp.Api",
-        "projectPath": "C:\\Users\\RukiyeBAŞBOĞA\\source\\repos\\HotelApp\\HotelApp.Api\\HotelApp.Api.csproj",
-        "packagesPath": "C:\\Users\\RukiyeBAŞBOĞA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\RukiyeBAŞBOĞA\\source\\repos\\HotelApp\\HotelApp.Api\\obj\\",
+        "projectPath": "C:\\Users\\sefab\\Desktop\\HotelApp\\HotelApp.Api\\HotelApp.Api.csproj",
+        "packagesPath": "C:\\Users\\sefab\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sefab\\Desktop\\HotelApp\\HotelApp.Api\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\RukiyeBAŞBOĞA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sefab\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,18 +26,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://api.nuget.org/v3/index.json": {},
-          "http://nexus.bulut.ai/repository/bit-nuget-group/index.json": {}
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\RukiyeBAŞBOĞA\\source\\repos\\HotelApp\\HotelApp.Data\\HotelApp.Data.csproj": {
-                "projectPath": "C:\\Users\\RukiyeBAŞBOĞA\\source\\repos\\HotelApp\\HotelApp.Data\\HotelApp.Data.csproj"
+              "C:\\Users\\sefab\\Desktop\\HotelApp\\HotelApp.Data\\HotelApp.Data.csproj": {
+                "projectPath": "C:\\Users\\sefab\\Desktop\\HotelApp\\HotelApp.Data\\HotelApp.Data.csproj"
               },
-              "C:\\Users\\RukiyeBAŞBOĞA\\source\\repos\\HotelApp\\HotelApp.Services\\HotelApp.Services.csproj": {
-                "projectPath": "C:\\Users\\RukiyeBAŞBOĞA\\source\\repos\\HotelApp\\HotelApp.Services\\HotelApp.Services.csproj"
+              "C:\\Users\\sefab\\Desktop\\HotelApp\\HotelApp.Services\\HotelApp.Services.csproj": {
+                "projectPath": "C:\\Users\\sefab\\Desktop\\HotelApp\\HotelApp.Services\\HotelApp.Services.csproj"
               }
             }
           }
@@ -92,21 +96,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\RukiyeBAŞBOĞA\\source\\repos\\HotelApp\\HotelApp.Data\\HotelApp.Data.csproj": {
+    "C:\\Users\\sefab\\Desktop\\HotelApp\\HotelApp.Data\\HotelApp.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\RukiyeBAŞBOĞA\\source\\repos\\HotelApp\\HotelApp.Data\\HotelApp.Data.csproj",
+        "projectUniqueName": "C:\\Users\\sefab\\Desktop\\HotelApp\\HotelApp.Data\\HotelApp.Data.csproj",
         "projectName": "HotelApp.Data",
-        "projectPath": "C:\\Users\\RukiyeBAŞBOĞA\\source\\repos\\HotelApp\\HotelApp.Data\\HotelApp.Data.csproj",
-        "packagesPath": "C:\\Users\\RukiyeBAŞBOĞA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\RukiyeBAŞBOĞA\\source\\repos\\HotelApp\\HotelApp.Data\\obj\\",
+        "projectPath": "C:\\Users\\sefab\\Desktop\\HotelApp\\HotelApp.Data\\HotelApp.Data.csproj",
+        "packagesPath": "C:\\Users\\sefab\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sefab\\Desktop\\HotelApp\\HotelApp.Data\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\RukiyeBAŞBOĞA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sefab\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -114,8 +122,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://api.nuget.org/v3/index.json": {},
-          "http://nexus.bulut.ai/repository/bit-nuget-group/index.json": {}
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -174,21 +182,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\RukiyeBAŞBOĞA\\source\\repos\\HotelApp\\HotelApp.Services\\HotelApp.Services.csproj": {
+    "C:\\Users\\sefab\\Desktop\\HotelApp\\HotelApp.Services\\HotelApp.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\RukiyeBAŞBOĞA\\source\\repos\\HotelApp\\HotelApp.Services\\HotelApp.Services.csproj",
+        "projectUniqueName": "C:\\Users\\sefab\\Desktop\\HotelApp\\HotelApp.Services\\HotelApp.Services.csproj",
         "projectName": "HotelApp.Services",
-        "projectPath": "C:\\Users\\RukiyeBAŞBOĞA\\source\\repos\\HotelApp\\HotelApp.Services\\HotelApp.Services.csproj",
-        "packagesPath": "C:\\Users\\RukiyeBAŞBOĞA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\RukiyeBAŞBOĞA\\source\\repos\\HotelApp\\HotelApp.Services\\obj\\",
+        "projectPath": "C:\\Users\\sefab\\Desktop\\HotelApp\\HotelApp.Services\\HotelApp.Services.csproj",
+        "packagesPath": "C:\\Users\\sefab\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sefab\\Desktop\\HotelApp\\HotelApp.Services\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\RukiyeBAŞBOĞA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sefab\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -196,15 +208,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://api.nuget.org/v3/index.json": {},
-          "http://nexus.bulut.ai/repository/bit-nuget-group/index.json": {}
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\RukiyeBAŞBOĞA\\source\\repos\\HotelApp\\HotelApp.Data\\HotelApp.Data.csproj": {
-                "projectPath": "C:\\Users\\RukiyeBAŞBOĞA\\source\\repos\\HotelApp\\HotelApp.Data\\HotelApp.Data.csproj"
+              "C:\\Users\\sefab\\Desktop\\HotelApp\\HotelApp.Data\\HotelApp.Data.csproj": {
+                "projectPath": "C:\\Users\\sefab\\Desktop\\HotelApp\\HotelApp.Data\\HotelApp.Data.csproj"
               }
             }
           }
@@ -234,7 +246,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
