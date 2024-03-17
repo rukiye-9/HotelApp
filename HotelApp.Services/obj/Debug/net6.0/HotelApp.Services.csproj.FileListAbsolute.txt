@@ -1,0 +1,15 @@
+C:\Users\RukiyeBAŞBOĞA\source\repos\HotelApp\HotelApp.Services\bin\Debug\net6.0\HotelApp.Services.deps.json
+C:\Users\RukiyeBAŞBOĞA\source\repos\HotelApp\HotelApp.Services\bin\Debug\net6.0\HotelApp.Services.dll
+C:\Users\RukiyeBAŞBOĞA\source\repos\HotelApp\HotelApp.Services\bin\Debug\net6.0\HotelApp.Services.pdb
+C:\Users\RukiyeBAŞBOĞA\source\repos\HotelApp\HotelApp.Services\obj\Debug\net6.0\HotelApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RukiyeBAŞBOĞA\source\repos\HotelApp\HotelApp.Services\obj\Debug\net6.0\HotelApp.Services.AssemblyInfoInputs.cache
+C:\Users\RukiyeBAŞBOĞA\source\repos\HotelApp\HotelApp.Services\obj\Debug\net6.0\HotelApp.Services.AssemblyInfo.cs
+C:\Users\RukiyeBAŞBOĞA\source\repos\HotelApp\HotelApp.Services\obj\Debug\net6.0\HotelApp.Services.csproj.CoreCompileInputs.cache
+C:\Users\RukiyeBAŞBOĞA\source\repos\HotelApp\HotelApp.Services\obj\Debug\net6.0\HotelApp.Services.dll
+C:\Users\RukiyeBAŞBOĞA\source\repos\HotelApp\HotelApp.Services\obj\Debug\net6.0\refint\HotelApp.Services.dll
+C:\Users\RukiyeBAŞBOĞA\source\repos\HotelApp\HotelApp.Services\obj\Debug\net6.0\HotelApp.Services.pdb
+C:\Users\RukiyeBAŞBOĞA\source\repos\HotelApp\HotelApp.Services\obj\Debug\net6.0\ref\HotelApp.Services.dll
+C:\Users\RukiyeBAŞBOĞA\source\repos\HotelApp\HotelApp.Services\bin\Debug\net6.0\HotelApp.Data.dll
+C:\Users\RukiyeBAŞBOĞA\source\repos\HotelApp\HotelApp.Services\bin\Debug\net6.0\HotelApp.Data.pdb
+C:\Users\RukiyeBAŞBOĞA\source\repos\HotelApp\HotelApp.Services\obj\Debug\net6.0\HotelApp.Services.csproj.AssemblyReference.cache
+C:\Users\RukiyeBAŞBOĞA\source\repos\HotelApp\HotelApp.Services\obj\Debug\net6.0\HotelApp.Services.csproj.CopyComplete

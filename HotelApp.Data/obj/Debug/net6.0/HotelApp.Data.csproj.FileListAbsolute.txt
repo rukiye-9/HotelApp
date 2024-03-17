@@ -1,0 +1,14 @@
+C:\Users\RukiyeBAŞBOĞA\source\repos\HotelApp\HotelApp.Data\bin\Debug\net6.0\HotelApp.Data.deps.json
+C:\Users\RukiyeBAŞBOĞA\source\repos\HotelApp\HotelApp.Data\bin\Debug\net6.0\HotelApp.Data.runtimeconfig.json
+C:\Users\RukiyeBAŞBOĞA\source\repos\HotelApp\HotelApp.Data\bin\Debug\net6.0\HotelApp.Data.dll
+C:\Users\RukiyeBAŞBOĞA\source\repos\HotelApp\HotelApp.Data\bin\Debug\net6.0\HotelApp.Data.pdb
+C:\Users\RukiyeBAŞBOĞA\source\repos\HotelApp\HotelApp.Data\obj\Debug\net6.0\HotelApp.Data.csproj.AssemblyReference.cache
+C:\Users\RukiyeBAŞBOĞA\source\repos\HotelApp\HotelApp.Data\obj\Debug\net6.0\HotelApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RukiyeBAŞBOĞA\source\repos\HotelApp\HotelApp.Data\obj\Debug\net6.0\HotelApp.Data.AssemblyInfoInputs.cache
+C:\Users\RukiyeBAŞBOĞA\source\repos\HotelApp\HotelApp.Data\obj\Debug\net6.0\HotelApp.Data.AssemblyInfo.cs
+C:\Users\RukiyeBAŞBOĞA\source\repos\HotelApp\HotelApp.Data\obj\Debug\net6.0\HotelApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\RukiyeBAŞBOĞA\source\repos\HotelApp\HotelApp.Data\obj\Debug\net6.0\HotelApp.Data.dll
+C:\Users\RukiyeBAŞBOĞA\source\repos\HotelApp\HotelApp.Data\obj\Debug\net6.0\refint\HotelApp.Data.dll
+C:\Users\RukiyeBAŞBOĞA\source\repos\HotelApp\HotelApp.Data\obj\Debug\net6.0\HotelApp.Data.pdb
+C:\Users\RukiyeBAŞBOĞA\source\repos\HotelApp\HotelApp.Data\obj\Debug\net6.0\HotelApp.Data.genruntimeconfig.cache
+C:\Users\RukiyeBAŞBOĞA\source\repos\HotelApp\HotelApp.Data\obj\Debug\net6.0\ref\HotelApp.Data.dll
